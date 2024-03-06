@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "League Spartan", sans-serif;
+}
+:root {
+	--lt-violet: hsl(268, 47%, 21%);
+	--vb-violet: hsl(285, 91%, 52%);
+	--vb-violet2: hsl(290, 70%, 36%);
+}
+.slider {
+	background-image: linear-gradient(var(--vb-violet), var(--vb-violet2));
+	background-repeat: no-repeat;
+}
+.strength-container span.active,
+.tooltip.active {
+	opacity: 1;
+	transform: scale(1);
+}
