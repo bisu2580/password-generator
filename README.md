@@ -3,9 +3,11 @@
 Hey Everyone, I am **Biswajit Sahoo** and this is my mini project on _Password Generator_. It's a simple program that generates random passwords for the user based on his/her choice of uppercase,lowercase,numbers and symbols choice.
 
 Tech Stack used:
+```
 _1.HTML_ - To create the structure of the web page and to write code in it.
 _2.Tailwind Css_ - A utility-first CSS framework for rapidly building modern websites with a clean syntax that helps you
 _3.Javascript_- To interact with user, generate random numbers and manipulate HTML elements.
+```
 
 _Features implemented:_
 
