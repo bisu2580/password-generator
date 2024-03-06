@@ -4,9 +4,9 @@ Hey Everyone, I am **Biswajit Sahoo** and this is my mini project on _Password G
 
 Tech Stack used:
 ```
-_1.HTML_ - To create the structure of the web page and to write code in it.
-_2.Tailwind Css_ - A utility-first CSS framework for rapidly building modern websites with a clean syntax that helps you
-_3.Javascript_- To interact with user, generate random numbers and manipulate HTML elements.
+1.HTML - To create the structure of the web page and to write code in it.
+2.Tailwind Css - A utility-first CSS framework for rapidly building modern websites with a clean syntax that helps you
+3.Javascript- To interact with user, generate random numbers and manipulate HTML elements.
 ```
 
 _Features implemented:_
